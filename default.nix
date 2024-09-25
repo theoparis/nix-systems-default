@@ -3,4 +3,8 @@
   "aarch64-linux"
   "x86_64-darwin"
   "x86_64-linux"
+	"riscv32-linux"
+	"riscv64-linux"
+	"x86_64-w64-mingw32"
+	"aarch64-w64-mingw32"
 ]
